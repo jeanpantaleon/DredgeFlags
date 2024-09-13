@@ -1,16 +1,16 @@
 ﻿using UnityEngine;
 
-namespace WinchModTemplate
+namespace DredgeFlags
 {
-	public class Loader
+    public class Loader
 	{
 		/// <summary>
 		/// This method is run by Winch to initialize your mod
 		/// </summary>
 		public static void Initialize()
 		{
-			var gameObject = new GameObject(nameof(WinchModTemplate));
-			gameObject.AddComponent<WinchModTemplate>();
+			var gameObject = new GameObject(nameof(DredgeFlags));
+			gameObject.AddComponent<DredgeFlags>();
 			GameObject.DontDestroyOnLoad(gameObject);
 		}
 	}

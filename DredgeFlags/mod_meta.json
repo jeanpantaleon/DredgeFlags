@@ -1,0 +1,9 @@
+{
+	"Author": "DaSea",
+	"Name": "DredgeFlags",
+	"ModGUID": "DaSea.DredgeFlags",
+	"Version": "0.0.1",
+	"ModAssembly": "DredgeFlags.dll",
+	"MinWinchVersion": "0.4.0",
+	"Entrypoint": "DredgeFlags.Loader/Initialize"
+}
