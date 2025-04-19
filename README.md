@@ -8,3 +8,4 @@ To create you own flag, make sure to use the [GIMP file](/flag_template.xcf) or 
 
 - Working with BoatChanger Mod
 - Public flag list
+- Custom mod config
